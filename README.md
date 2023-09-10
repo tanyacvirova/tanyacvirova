@@ -7,3 +7,7 @@
 — Currently learning D3.js and practinig in creating interactive visualizations   
 
 ### :rocket: Languages and skills
+
+**Web Development**: HTML, CSS, JavaScript, React, TypeScript, D3.js, Git, Rest API, Node JS, Express JS, MongoDB   
+**Data Analytics**: Python, SQL, Qlik Sense, Tableau, Datawrapper, QGIS   
+**Design**: Figma, Adobe   
